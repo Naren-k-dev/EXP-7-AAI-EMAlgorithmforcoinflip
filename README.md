@@ -1,5 +1,6 @@
 # Exp:7 - Expectation–Maximization for the Two-Coin Flipping Experiment
-## By: Dr N.SARAVANAN - Assistant Professor,AIML,SEC
+## By: Narendran K 
+## By: Narendran K 
 This project implements the coin-flipping **Expectation–Maximization (EM)** example demonstrated in the supplied video. It estimates the probability of heads for two coins when the identity of the coin used in each experiment is unknown.
 
 The implementation is intentionally a **mixture-of-coins model**, not a Hidden Markov Model (HMM). One hidden coin generates an entire experiment of ten tosses; the coin does not switch within that experiment.
